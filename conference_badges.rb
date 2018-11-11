@@ -14,7 +14,7 @@ end
 batch_badge_creator = [#{speaker_name} + #{room_number}]
  
   
-batch_badge_creator.each do |speaker_name + room_number|
+batch_badge_creator.each do |#{speaker_name} + #{room_number}|
   puts #{batch_badge_creator}
   
 end
