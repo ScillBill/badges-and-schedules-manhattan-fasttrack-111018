@@ -12,4 +12,4 @@ room_numbers.each do |room_number|
 end
 
 batch_badge_creator = [#{speaker_name} + #{room_number}]
-  puts "#{speaker_name}. + #{room_number}"
+  puts "#{speaker_name} + #{room_number}"
