@@ -8,7 +8,6 @@ end
 room_numbers = [1,2,3,4,5,6,7]
 
 room_numbers.each do |room_number|
-  puts "#{room_number}"
+  puts "You are assigned to #{room_number}"
 end
 
-badge
